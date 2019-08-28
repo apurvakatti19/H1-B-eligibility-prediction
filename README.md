@@ -1,0 +1,2 @@
+# H1-B-eligibility-prediction
+This work deals with making a thorough analysis of the intermediate step before the application is picked up and granted the visa. The intermediate process checks the eligibility of the applicant depending on the various parameters and then issues certified or denied as to its status. It also has several other types of statuses such as certified-withdrawn and withdrawn. This is an important problem as there is no clear rules or criteria for rejecting or accepting a petition
